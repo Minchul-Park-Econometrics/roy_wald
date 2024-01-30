@@ -7,4 +7,4 @@ The package includes:
  1. _roy_wald_ command: testing for the original Roy selection mechanism of Han and Park.
  2. an example of using the _roy_wald_ command.
 
-Please contact Minchul Park at (minchul1352@korea.ac.kr) with any questions.
+Please contact Minchul Park at minchul1352@korea.ac.kr with any questions.
