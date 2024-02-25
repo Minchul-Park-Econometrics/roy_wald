@@ -1,6 +1,6 @@
 # roy_wald
 
-This is a Stata package for Han and Park (working paper), "A Test for the Roy Selection Mechanism"
+This is a Stata package for Han and Park (working paper), "A Statistical Test for the Roy Selection Mechanism"
 
 The package includes:
 
